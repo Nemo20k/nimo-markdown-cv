@@ -7,6 +7,9 @@ email:
 github:
   url: https://github.com/Nemo20k
   text: github.com/Nemo20k
+linkedin:
+  url: https://www.linkedin.com/in/ofir-nemet-711701161/
+  text: linkedin profile
 phone: +972-54-266-2614
 ---
 # **Ofir Nemet**
