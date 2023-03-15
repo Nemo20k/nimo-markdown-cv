@@ -9,7 +9,9 @@ github:
   text: github.com/Nemo20k
 phone: +972-54-266-2614
 ---
-# Ofir Nemet
+# **Ofir Nemet**
+
+{% include cv-contact.html %}
 
 ## **Professional Summary**
 
