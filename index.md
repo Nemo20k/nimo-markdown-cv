@@ -22,11 +22,9 @@ Software Engineer with experience in data analysis and back-end web development 
 
 ---
 
-### Work Experience
+## **Work Experience**
 
-#### Backend Engineer at Avantis
-
-_2021-2022_
+### **Backend Engineer at Avantis** `2020-2022`
 
 -   Developed and owned backend servers in a production environment, handling the full production cycle from design to delivery to the cloud environment using NodeJS, TypeScript, and AWS.
 -   Conducted data scraping and automation for market intelligence using Python, Selenium, and SQL.
