@@ -247,7 +247,7 @@ a {
 
 @media print {
   hr {
-    page-break-after: always; /* CSS 2 */
+    page-break-after: avoid; /* CSS 2 */
     /* minimal layout disruption: */
     height: 0.1mm;
     visibility: hidden;
